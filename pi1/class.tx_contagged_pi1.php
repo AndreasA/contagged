@@ -17,7 +17,6 @@
  *  This copyright notice MUST APPEAR in all copies of the script!
  ***************************************************************/
 
-require_once (PATH_tslib . 'class.tslib_pibase.php');
 require_once (t3lib_extMgm::extPath('contagged') . 'class.tx_contagged.php');
 require_once (t3lib_extMgm::extPath('contagged') . 'model/class.tx_contagged_model_terms.php');
 require_once (t3lib_extMgm::extPath('contagged') . 'model/class.tx_contagged_model_mapper.php');
